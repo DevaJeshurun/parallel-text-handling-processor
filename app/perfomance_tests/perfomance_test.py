@@ -12,7 +12,7 @@ This script measures:
 
 Outputs:
     - Detailed console logs
-    - performance_report.txt inside performance_tests/reports/
+    - performance_report.txt inside performance_tests/reports
 """
 
 import os
